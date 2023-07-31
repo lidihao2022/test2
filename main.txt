@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 这是master分支，是v2版本
+=======
+<<<<<<< HEAD
+这是master分支，是v2版本
+=======
+这是master分支，是v2版本...
+>>>>>>> 24c91e2 (v2 update main.txt)
+>>>>>>> 2a43856 (v2 update main.txt)
